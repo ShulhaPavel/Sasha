@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lavender;
+}
+
+header p{
+    text-align: center;
+}
+
+header a{
+    color: black;
+}
+
+nav{
+    text-align: center;
+  
+  color: #5757a0;
+  padding: 10px 20px;
+  background-color: lavender;
+  border-bottom: 5px solid #5757a0;
+}
+
+nav a{
+text-decoration: none;
+font-family: sans-serif;
+border-radius: 15px;
+border: 2px solid #5757a0;
+padding: 5px;
+}
+
+
+h1 {
+    color: red;
+    text-align: center
+}
+
+footer {
+    background-color: #5757a0;
+}
+
+footer p {
+    color: rgb(210, 247, 3);
+}
+
+h2 {
+   color: red;
+   text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid red;
+}
+
+table tr{
+    border: 1px solid red;
+    text-align: center;
+}
+
+table td{
+border: 1px solid red;
+text-align: center;
+}
